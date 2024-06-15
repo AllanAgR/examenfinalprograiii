@@ -1,0 +1,6 @@
+com\example\demo\services\TareaService.class
+com\example\demo\DemoApplication.class
+com\example\demo\repositories\TareaRepository.class
+com\example\demo\controllers\TareaController.class
+com\example\demo\models\TareaModel.class
+com\example\demo\ServletInitializer.class
